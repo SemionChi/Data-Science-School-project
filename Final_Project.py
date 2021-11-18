@@ -1,7 +1,3 @@
-# Students:
-# Yarden Levy - 205356074
-# Rey Hadas - 313194748
-# Semion Tchitchelnitski - 317226223
 
 import matplotlib.pyplot as plt
 import numpy as np
